@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\bin\Debug\net7.0\metniterstenyazma.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\bin\Debug\net7.0\metniterstenyazma.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\bin\Debug\net7.0\metniterstenyazma.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\bin\Debug\net7.0\metniterstenyazma.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\bin\Debug\net7.0\metniterstenyazma.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\refint\metniterstenyazma.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\metniterstenyazma.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\metniterstenyazma\obj\Debug\net7.0\ref\metniterstenyazma.dll
