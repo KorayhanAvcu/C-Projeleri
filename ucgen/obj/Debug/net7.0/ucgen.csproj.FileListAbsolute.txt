@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\bin\Debug\net7.0\ucgen.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\bin\Debug\net7.0\ucgen.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\bin\Debug\net7.0\ucgen.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\bin\Debug\net7.0\ucgen.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\bin\Debug\net7.0\ucgen.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\refint\ucgen.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ucgen.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\ucgen\obj\Debug\net7.0\ref\ucgen.dll
