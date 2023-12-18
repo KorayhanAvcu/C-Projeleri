@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\bin\Debug\net7.0\orthesaplama.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\bin\Debug\net7.0\orthesaplama.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\bin\Debug\net7.0\orthesaplama.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\bin\Debug\net7.0\orthesaplama.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\bin\Debug\net7.0\orthesaplama.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\refint\orthesaplama.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\orthesaplama.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\orthesaplama\obj\Debug\net7.0\ref\orthesaplama.dll
