@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\bin\Debug\net7.0\karakter_degistirme.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\bin\Debug\net7.0\karakter_degistirme.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\bin\Debug\net7.0\karakter_degistirme.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\bin\Debug\net7.0\karakter_degistirme.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\bin\Debug\net7.0\karakter_degistirme.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\refint\karakter_degistirme.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\karakter_degistirme.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\karakter_degistirme\obj\Debug\net7.0\ref\karakter_degistirme.dll
