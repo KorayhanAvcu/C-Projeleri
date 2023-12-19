@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\bin\Debug\net7.0\integer_ikilileri.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\bin\Debug\net7.0\integer_ikilileri.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\bin\Debug\net7.0\integer_ikilileri.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\bin\Debug\net7.0\integer_ikilileri.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\bin\Debug\net7.0\integer_ikilileri.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\refint\integer_ikilileri.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\integer_ikilileri.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\integer_ikilileri\obj\Debug\net7.0\ref\integer_ikilileri.dll
