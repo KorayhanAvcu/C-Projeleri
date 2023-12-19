@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\bin\Debug\net7.0\geometrik_sekil.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\bin\Debug\net7.0\geometrik_sekil.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\bin\Debug\net7.0\geometrik_sekil.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\bin\Debug\net7.0\geometrik_sekil.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\bin\Debug\net7.0\geometrik_sekil.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\refint\geometrik_sekil.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\geometrik_sekil.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\geometrik_sekil\obj\Debug\net7.0\ref\geometrik_sekil.dll
