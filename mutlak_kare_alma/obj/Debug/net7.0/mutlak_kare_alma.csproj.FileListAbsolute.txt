@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\bin\Debug\net7.0\mutlak_kare_alma.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\bin\Debug\net7.0\mutlak_kare_alma.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\bin\Debug\net7.0\mutlak_kare_alma.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\bin\Debug\net7.0\mutlak_kare_alma.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\bin\Debug\net7.0\mutlak_kare_alma.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\refint\mutlak_kare_alma.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\mutlak_kare_alma.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\mutlak_kare_alma\obj\Debug\net7.0\ref\mutlak_kare_alma.dll
