@@ -1,0 +1,15 @@
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\bin\Debug\net7.0\sessiz_harf.exe
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\bin\Debug\net7.0\sessiz_harf.deps.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\bin\Debug\net7.0\sessiz_harf.runtimeconfig.json
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\bin\Debug\net7.0\sessiz_harf.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\bin\Debug\net7.0\sessiz_harf.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.csproj.AssemblyReference.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.AssemblyInfoInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.AssemblyInfo.cs
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.csproj.CoreCompileInputs.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\refint\sessiz_harf.dll
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.pdb
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\sessiz_harf.genruntimeconfig.cache
+C:\Users\audio_local\Desktop\Yeni klasör\c# odevleri\sessiz_harf\obj\Debug\net7.0\ref\sessiz_harf.dll
