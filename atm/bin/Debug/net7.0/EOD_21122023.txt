@@ -1,0 +1,6 @@
+Hatali giris islemi yapildi.
+korayhan kisisi tarafindan 1000 tutarinda para cekme islemi yapildi.
+korayhan kisisi tarafindan 20000 tutarinda para yatırma islemi yapildi.
+korayhan kisisi tarafindan 500 tutarinda kredi karti odemesi islemi yapildi.
+korayhan kisisi tarafindan 10000 tutarinda fatura odeme islemi yapildi.
+korayhan kisisi tarafindan 1000 tutarinda para transfer islemi yapildi.

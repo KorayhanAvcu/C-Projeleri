@@ -1,0 +1,14 @@
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\bin\Debug\net7.0\atm.exe
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\bin\Debug\net7.0\atm.deps.json
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\bin\Debug\net7.0\atm.runtimeconfig.json
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\bin\Debug\net7.0\atm.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\bin\Debug\net7.0\atm.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\atm.AssemblyInfoInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\atm.AssemblyInfo.cs
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\atm.csproj.CoreCompileInputs.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\atm.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\refint\atm.dll
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\atm.pdb
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\atm.genruntimeconfig.cache
+C:\Users\marve\OneDrive\Masaüstü\c#\atm\obj\Debug\net7.0\ref\atm.dll
