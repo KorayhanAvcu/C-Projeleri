@@ -1,0 +1,7 @@
+C:\Users\marve\source\repos\circle_\circle_\obj\Debug\circle_.csproj.AssemblyReference.cache
+C:\Users\marve\source\repos\circle_\circle_\obj\Debug\circle_.csproj.CoreCompileInputs.cache
+C:\Users\marve\source\repos\circle_\circle_\bin\Debug\circle_.exe.config
+C:\Users\marve\source\repos\circle_\circle_\bin\Debug\circle_.exe
+C:\Users\marve\source\repos\circle_\circle_\bin\Debug\circle_.pdb
+C:\Users\marve\source\repos\circle_\circle_\obj\Debug\circle_.exe
+C:\Users\marve\source\repos\circle_\circle_\obj\Debug\circle_.pdb
