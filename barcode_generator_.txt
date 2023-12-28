@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using IronBarCode;
+
+namespace barcodee
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+           
+            string textToEncode = "HelloBarcode";
+            string filePath = "barcode.png";
+            GenerateAndSaveBarcode(textToEncode, filePath);
+            Console.WriteLine("Barcode olusturuldu ve dosyaya kaydedildi.");
+
+            
+            string decodedText = ReadBarcode(filePath);
+            Console.WriteLine("Okunan metin: " + decodedText);
+
+            Console.ReadLine();
+        }
+
+        static void GenerateAndSaveBarcode(string text, string filePath)
+        {
+            var barcode = IronBarCode.BarcodeWriter.CreateBarcode(text, BarcodeEncoding.Code128);
+            barcode.SaveAsPng(filePath);
+        }
+
+        static string ReadBarcode(string filePath)
+        {
+            var barcodeResult = IronBarCode.BarcodeReader.QuicklyReadOneBarcode(filePath);
+            return barcodeResult.Text;
+        }
+    }
+}
